@@ -1,10 +1,17 @@
-# Empress.js: Your Gateway to Rapid Application Development ![Empress.js Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+<div align="center">
+
+
+ <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
+# Empress.js: Your Gateway to Rapid Application Development
 
 Welcome to **Empress.js**, a metadata-driven framework designed to supercharge the development of Node.js and Electron applications. With a focus on speed, responsiveness, and efficiency, Empress.js is your go-to tool for crafting dynamic web applications.
 
 📚 [Documentation](https://grow.empress.eco/)
 🐞 [Report a Bug](https://github.com/empress-eco/Empressjs/issues)
 ✨ [Request a Feature](https://github.com/empress-eco/Empressjs/issues)
+
+</div>
 
 ## About The Project
 
